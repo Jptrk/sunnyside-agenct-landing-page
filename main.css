@@ -447,6 +447,7 @@ footer .social img {
   }
 
   .landing {
+    overflow: hidden;
     height: 100vh;
     background-image: url("images/desktop/image-header.jpg");
   }
